@@ -1,4 +1,4 @@
 # test-git
 
 # My first git repo!
-<h1>Hello Oding</h1>
+<h1>Hello Odin Project!</h1>
